@@ -54,4 +54,6 @@ WTN Market is not just another darknet marketplace—it is a carefully cultivate
 
 Experience the difference. Visit **http://hh2paw7ouhfjozylujs3qp4rql7xc76ce63ffzvtlpicjqgeiqxp4oad.onion** today.
 
-Update:  Thursday 18 September 2025
+
+
+Update:  10/01/2025 Fixed non-working link
